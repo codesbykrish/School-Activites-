@@ -1,5 +1,6 @@
 WORM is a game where you play as a worm and you try to collect as many leaves as possible before you die.
-I made this game for a school final assignment
+I made this game for a school final assignment.
+You will need to use IDLE (Python 3.10 64-bit)
 When you load the game, you will see a grass-like background and a play button.
 Clicking the play button will allow you to play the game.
 You will see a gray dot and a green dot. The gray dot will be the worm and the green dot will be the leaf. 
